@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25311507132",
+    "project_id": "esewa-eb03d",
+    "storage_bucket": "esewa-eb03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25311507132:android:c559cf5c8e58decb7f96b9",
+        "android_client_info": {
+          "package_name": "com.example.esewa_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25311507132-e0941a46b7gvq3d6m8hpfn7phdotr4uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqGSoqDrMhw1YkX4stco8auo4Y8KlSRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25311507132-e0941a46b7gvq3d6m8hpfn7phdotr4uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
